@@ -1,0 +1,13 @@
+{
+  "name": "airlinebicycle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --out-dir docs --public-url /airlinebicycle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxarvid",
+  "license": "ISC"
+}
